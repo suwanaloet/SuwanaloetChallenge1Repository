@@ -29,6 +29,6 @@
 * Github: https://github.com/suwanaloet/SuwanaloetChallenge1Repository
 * Github Deploy: https://suwanaloet.github.io/SuwanaloetChallenge1Repository/
 
-![Project Screenshot](/snapshot1.jpg?raw=true)
-![Project Screenshot](/snapshot2.jpg?raw=true)
-![Project Screenshot](/snapshot3.jpg?raw=true)
+* ![Project Screenshot](/assets/snapshot1.jpg)
+* ![Project Screenshot](/assets/snapshot2.jpg)
+* ![Project Screenshot](/assets/snapshot3.jpg)
