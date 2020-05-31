@@ -32,6 +32,11 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+<!-- Semantic means div and span to form table and article -->
+<!-- Structure of html means neatness? -->
+<!-- alt attributes describe picture -->
+<!-- headings sequential idk -->
+<!-- title conciseness-->
 ## Review
 
 You are required to submit the following for review:
